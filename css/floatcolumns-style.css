@@ -1,0 +1,10 @@
+.sidebar {
+  float: right;
+  background-color: magenta;
+  font-weight: bolder;
+  font-style: oblique;
+}
+
+img {
+  float: right;
+}
